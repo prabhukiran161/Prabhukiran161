@@ -1,7 +1,7 @@
 # Hello Devs, I'm Prabhu Kiran 👋
 
 <div align="center">
-  <img src="banner.png" alt="Cover Image" width="100%">
+  <img src="Banner.png" alt="Cover Image" width="100%">
 </div>
 
 # 🚀 About Me ![Profile Views](https://komarev.com/ghpvc/?username=Prabhukiran161&color=blue)
